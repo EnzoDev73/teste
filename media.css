@@ -1,0 +1,9 @@
+@charset "utf8";
+
+@media (orientation: landscape) {
+    div#color2{
+        display: block;
+        margin: auto;
+        background-color: lightblue;
+    }
+}

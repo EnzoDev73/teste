@@ -1,0 +1,19 @@
+@charset "utf8";
+
+div#color1{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+div#color2{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+div#color3{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
